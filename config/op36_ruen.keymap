@@ -66,6 +66,12 @@
             key-positions = <2 3>;
             layers = <0>;
         };
+
+        yo {
+            bindings = <&kp RU_CYRILLIC_IO>;
+            key-positions = <4 3>;
+            layers = <1>;
+        };
     };
 
     macros {
